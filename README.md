@@ -2,11 +2,11 @@
 
 Get latest fuel prices for major cities in India.
 
-Give it a go at: http://fuelpriceindia.herokuapp.com/
+Give it a go at: http://madarasi.herokuapp.com/
 
 API available for fetching fuel price:
 
-url: `http://fuelpriceindia.herokuapp.com`
+url: `http://madarasi.herokuapp.com/`
 
 1. Fetch available cities list:
 
